@@ -1,0 +1,16 @@
+{
+  "locations": [
+    "Dow's Lake",
+    "Fifth Avenue",
+    "NAC"
+  ],
+  "iceThickness": {
+    "min": 10,
+    "max": 35
+  },
+  "waterTemperature": {
+    "min": -5,
+    "max": 4
+  },
+  "intervalSeconds": 10
+}
