@@ -45,26 +45,26 @@ Generates telemetry data
 Sends messages
 
 ## Key Functions
-get_telemetry()
-Generates random sensor data for:
-location
-ice thickness
-water temperature
-skating condition
-get_skating_condition()
-Determines skating quality based on ice thickness
-main()
-Initializes IoT client
-Sends telemetry in a loop
+get_telemetry()   
+Generates random sensor data for:   
+location   
+ice thickness   
+water temperature   
+skating condition   
+get_skating_condition()   
+Determines skating quality based on ice thickness   
+main()   
+Initializes IoT client   
+Sends telemetry in a loop  
 
 ## Key Functions
 
 {
-  "location": "string",
-  "iceThickness": "number",
-  "waterTemperature": "number",
-  "skatingCondition": "string",
-  "timestamp": "string"
+  "location": "string",  
+  "iceThickness": "number",  
+  "waterTemperature": "number",  
+  "skatingCondition": "string",  
+  "timestamp": "string"  
 }
 
 
