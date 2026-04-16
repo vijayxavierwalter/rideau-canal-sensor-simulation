@@ -31,12 +31,12 @@ Created a .env file in the root directory:
 python sensor_simulator.py
 
 ## Code Structure
-rideau-canal-sensor-simulation/
-├── sensor_simulator.py
-├── requirements.txt
-├── .env.example
-├── config/
-│   └── sensor_config.json
+rideau-canal-sensor-simulation/  
+├── sensor_simulator.py   
+├── requirements.txt  
+├── .env.example  
+├── config/  
+│   └── sensor_config.json  
 
 ## Main Components
 sensor_simulator.py
