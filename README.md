@@ -23,8 +23,8 @@ The simulator mimics real-world environmental sensors and enables testing of the
 ## Installation
 
 Clone the repository
-git clone https://github.com/vijayxavierwalter/rideau-canal-sensor-simulation.git
-cd rideau-canal-sensor-simulation
+git clone https://github.com/vijayxavierwalter/rideau-canal-sensor-simulation.git  
+cd rideau-canal-sensor-simulation  
 Created a .env file in the root directory:
 
 ## Usage   
